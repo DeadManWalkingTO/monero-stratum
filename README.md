@@ -2,6 +2,21 @@
 
 High performance CryptoNote mining stratum with Web-interface written in Golang.
 
+[![Hits](https://hits.sh/github.com/sammy007/monero-stratum.svg?style=plastic&label=HitCount)](../../)
+[![GitHub Release Date](https://img.shields.io/github/release-date-pre/sammy007/monero-stratum.svg)](../../releases/latest)
+[![GitHub top language](https://img.shields.io/github/languages/top/sammy007/monero-stratum.svg)](../../)
+[![GitHub language count](https://img.shields.io/github/languages/count/sammy007/monero-stratum.svg)](../../)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/sammy007/monero-stratum.svg)](../../)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/sammy007/monero-stratum.svg)](../../)
+[![Github commits (since latest release)](https://img.shields.io/github/commits-since/sammy007/monero-stratum/latest.svg)](../../)
+[![GitHub stars](https://img.shields.io/github/stars/sammy007/monero-stratum.svg)](../../stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sammy007/monero-stratum.svg)](../../network)
+[![GitHub issues](https://img.shields.io/github/issues/sammy007/monero-stratum.svg)](../../issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/sammy007/monero-stratum.svg)](../../issues)
+
+[![GitHub license](https://img.shields.io/github/license/sammy007/monero-stratum.svg)](./LICENSE)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
 [![Go Report Card](https://goreportcard.com/badge/github.com/sammy007/monero-stratum)](https://goreportcard.com/report/github.com/sammy007/monero-stratum)
 [![CircleCI](https://circleci.com/gh/sammy007/monero-stratum.svg?style=svg)](https://circleci.com/gh/sammy007/monero-stratum)
 
